@@ -1,0 +1,55 @@
+
+
+
+body {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #f5f5f5;
+}
+
+.brmlogo{
+    border-radius: 30%;
+}
+.formheader{
+    font-size: 1.5rem;
+}
+
+.form-signin {
+  max-width: 330px;
+  padding: 15px;
+}
+
+.form-signin .form-floating:focus-within {
+  z-index: 2;
+}
+
+.top {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.middle{
+    border-radius: 0;
+    margin-bottom: -1px;
+}
+
+.bottom {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+.main-container{
+  align-items: center;
+  padding-top: 20px;
+  height: 40%;
+  width: 60%;
+  margin-left: 20%;
+  
+  background-color: mediumaquamarine;
+  
+}
